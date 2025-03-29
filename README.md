@@ -1,9 +1,11 @@
 # Student Result Analysis 📊
 
 📌 Overview
+
 This project analyzes student performance based on various demographic and academic factors using Python and data visualization techniques. The dataset includes information on students' scores in math, reading, and writing, along with gender, parental education, and other factors.
 
 🚀 Features
+
 ✅ Data Preprocessing:
 
 ➡️ Reads data from Student_Scores.csv
