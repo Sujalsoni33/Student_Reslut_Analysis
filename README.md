@@ -25,6 +25,7 @@ This project analyzes student performance based on various demographic and acade
 ➡️ Effect of parental marital status on scores
 
 🛠️ Technologies Used
+
 ➡️ Python 🐍
 
 ➡️ Pandas 📊 (for data manipulation)
@@ -32,6 +33,9 @@ This project analyzes student performance based on various demographic and acade
 ➡️ Matplotlib & Seaborn 🎨 (for data visualization)
 
 📊 Key Insights
+
 📌 Gender-Based Performance: Female students generally score higher than male students in reading and writing.
+
 📌 Parental Education Impact: Students whose parents have higher education levels tend to perform better.
+
 📌 Marital Status Analysis: Parental marital status has no significant impact on student scores.
